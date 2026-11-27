@@ -32,49 +32,22 @@ const products = [
     description: "Árbol verde de 9 cm con estrella dorada, capas de glaseado blanco y bolitas de colores. Envuelto en celofán con lazo rojo."
   },
   {
-    id: "angel-amor",
-    name: "Ángel 'Amor' en Caja",
+    id: "angeles",
+    name: "Ángeles Decorativos (Amor y Salud)",
     category: "Decoración",
     image: "assets/img/angeles.jpg",
-    price: "$3.00",
+    price: "$2.50 - $3.00",
     specs: "Altura: 7.5 cm",
-    description: "Ángel rojo con corazón calado y arco dorado, relleno decorativo, presentado en caja acrílica con lazo dorado."
+    description: "Ángel rojo 'Amor' en caja acrílica ($3.00) o sin caja ($2.50) y ángel blanco/crema 'Salud' ($2.50). Altura 7.5 cm."
   },
   {
-    id: "angel-salud",
-    name: "Ángel 'Salud'",
-    category: "Decoración",
-    image: "assets/img/angeles.jpg",
-    price: "$2.50",
-    specs: "Altura: 7.5 cm",
-    description: "Ángel blanco/crema con inscripción 'Salud', corazón calado y relleno decorativo, en bolsa de celofán con lazo rojo."
-  },
-  {
-    id: "copo-verde",
-    name: "Copo de Nieve Verde",
+    id: "copo-nieve",
+    name: "Copo de Nieve (Verde, Rojo y Blanco)",
     category: "Decoración",
     image: "assets/img/copos.jpg",
-    price: "$2.50",
+    price: "Desde $2.50",
     specs: "Diámetro: 7 cm",
-    description: "Copo de nieve verde con destellos azul/plata y puntos amarillos, en empaque colgante."
-  },
-  {
-    id: "copo-rojo",
-    name: "Copo de Nieve Rojo",
-    category: "Decoración",
-    image: "assets/img/copos.jpg",
-    price: "$2.50",
-    specs: "Diámetro: 7 cm",
-    description: "Copo de nieve rojo con glitter, envuelto en bolsa de celofán. Ideal para el árbol."
-  },
-  {
-    id: "copo-blanco",
-    name: "Copo de Nieve Blanco (Vela)",
-    category: "Velas",
-    image: "assets/img/copos.jpg",
-    price: "$3.00",
-    specs: "Diámetro: 7 cm",
-    description: "Vela copo de nieve blanca presentada en caja con lazo rojo. Aroma suave y luz cálida."
+    description: "Copo de nieve verde ($2.50) y rojo ($2.50) con glitter, más vela copo de nieve blanco ($3.00) en caja con lazo. Diámetro 7 cm."
   },
   {
     id: "reno-vela",
@@ -135,16 +108,25 @@ const products = [
     name: "Velas Bundle 'Abundancia'",
     category: "Velas",
     image: "assets/img/velas-bundle.jpg",
-    price: "$6.00 el par",
+    price: "$2.50 c/u",
     specs: "Largo: 14 cm · Ancho: 2 cm",
     description: "Par de velas blancas en celofán con palabras inspiradoras (Fe, Paz, Amor, Unión, Familia, Gratitud, Esperanza, Prosperidad) y 'Abundancia' con motivos de trigo."
+  },
+  {
+    id: "velas-regalo-4",
+    name: "Set de Velas Regalo (Abundancia, Gratitud, Dios y Felicidad)",
+    category: "Velas",
+    image: "assets/img/velas-regalo-4.png",
+    price: "$10.00",
+    specs: "Altura: 13 cm · Ancho: 2.5 cm",
+    description: "Set de 4 velas rosadas en caja transparente con lazo rojo, grabadas con Abundancia, Gratitud, Dios y Felicidad. Medidas 13 x 2.5 cm."
   },
   {
     id: "taza-galleta",
     name: "Taza Navideña con Galleta de Jengibre",
     category: "Tazas",
     image: "assets/img/taza-galleta.jpg",
-    price: "$8.50",
+    price: "$6.50",
     specs: "Incluye galleta",
     description: "Taza roja de cerámica con mensaje 'Feliz Navidad' y motivos navideños, acompañada de galleta de jengibre envuelta en celofán."
   },
@@ -162,7 +144,7 @@ const products = [
     name: "Esferas Personalizadas Rojas (Mascotas y Nombres)",
     category: "Personalizados",
     image: "assets/img/esferas-rojas.jpg",
-    price: "$4.50 c/u",
+    price: "$2.50 c/u",
     specs: "Set de 6",
     description: "Set de 6 esferas rojas personalizadas con nombres y huellas/copos de nieve, en caja roja con lazo blanco. Ideal para mascotas y familia."
   }
