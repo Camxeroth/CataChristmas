@@ -122,6 +122,15 @@ const products = [
     description: "Set de 4 velas rosadas en caja transparente con lazo rojo, grabadas con Abundancia, Gratitud, Dios y Felicidad. Medidas 13 x 2.5 cm."
   },
   {
+    id: "copas-personalizadas",
+    name: "Copas Personalizadas Navideñas",
+    category: "Personalizados",
+    image: "assets/img/copas-personalizadas.png",
+    price: "$4.50 c/u",
+    specs: "Personalizable",
+    description: "Copas de champagne personalizadas con nombre en dorado y copos de nieve, rellenas de nieve artificial. Ideal para brindis navideño."
+  },
+  {
     id: "taza-galleta",
     name: "Taza Navideña con Galleta de Jengibre",
     category: "Tazas",
