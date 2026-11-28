@@ -86,13 +86,13 @@ const products = [
     description: "Vela votiva en vaso de vidrio con diseño de reno (cornamenta dorada, lazo rojo, nariz roja) y topper rosa. Vela encendida para ambiente cálido."
   },
   {
-    id: "vela-muneco",
-    name: "Vela Votiva Muñeco de Nieve",
+    id: "galleta-jengibre",
+    name: "Galleta de Jengibre",
     category: "Velas",
     image: "assets/img/velas-votivas.jpg",
     price: "$3.00 c/uno",
     specs: "Altura: 5 cm · Circunferencia: 5 cm",
-    description: "Vela votiva en vaso de vidrio con muñeco de nieve sosteniendo un arbolito; inscripción 'Feliz Navidad'."
+    description: "Vela votiva en vaso de vidrio con diseño de galleta de jengibre; inscripción 'Feliz Navidad'."
   },
   {
     id: "esferas-personalizadas",
